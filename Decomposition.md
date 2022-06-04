@@ -28,6 +28,6 @@
  - Bunun yerine bir adet base class oluşturup içerisine işlem fonksiyonlarını tanımlayıp ,başka sınıfları burdan extend almasını sağlayarak methodları override edebiliriz.
  - Bu sayede daha fazla bölüp daha kolay testler edebiliriz.
 
- ! [](/assets/decomposition.jpg)
+ ![](/assets/decomposition.jpg)
  
  - yukarıdaki görsel araştırmalarım sonucunda elde ettiğim güzel ve açıklayıcı bir görseldir .Onuda paylaşmak istedim.Güzel bir proje işleyiş görselidir.Decomposition mantıgı ile oluşturulmuştur.
